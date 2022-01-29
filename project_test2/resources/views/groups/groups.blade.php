@@ -14,7 +14,7 @@
                 @endif
             </div>
 
-            <h3>Groups management for School <strong> {{ Session::get('school_name') }}</strong></h3>
+            <h3>Groups | School <strong> {{ Session::get('school_name') }}</strong></h3>
             <br />
 
             <table class="table">
