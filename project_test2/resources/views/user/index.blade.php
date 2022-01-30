@@ -25,8 +25,8 @@
                 <h2> Students : {{ Session::get('user_name') }} </h2>
             @endif
             
-            <h3> user_email : <small> {{ Session::get('user_email') }} </small></h3>
-            <h3> Name : <small> {{ Session::get('school_name') }} </small></h3>
+            <h3> Email : <small> {{ Session::get('user_email') }} </small></h3>
+            <h3> Name School : <small> {{ Session::get('school_name') }} </small></h3>
         </div>
     </div>
 </div>
