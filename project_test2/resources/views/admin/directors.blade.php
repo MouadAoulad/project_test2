@@ -63,7 +63,7 @@
                         </select>
                     </div>
                 </div>
-                <button type="submit" class="btn btn-primary">Add</button>
+                <button type="submit" class="btn btn-primary">Add new director</button>
             </form>
 
         </div>
