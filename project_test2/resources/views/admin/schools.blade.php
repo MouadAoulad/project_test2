@@ -28,7 +28,7 @@
                 <thead class="thead-dark">
                     <tr>
                         <th scope="col">Name</th>
-                        <th scope="col">Email</th>
+                        <th scope="col">Slug</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -49,7 +49,7 @@
                     <label>Slug</label>
                     <input type="text" class="form-control" name="slug" require >
                 </div>
-                <button type="submit" class="btn btn-primary">Add</button>
+                <button type="submit" class="btn btn-primary">Add New School</button>
             </form>
 
         </div>
